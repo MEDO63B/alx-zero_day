@@ -1,3 +1,2 @@
 My second READme 
-
-in git folder
+new update
